@@ -38,6 +38,7 @@ CARD_CHANNEL = []
 WISHES_CHANNEL = []
 GIFTS_CHANNEL = []
 MEMORIES_CHANNEL = []
+ANNOUNCEMENT_CHANNEL = []
 
 def get_server_names():
   with open('./StuffForKeeping/server_names.txt', 'r') as file:
@@ -45,6 +46,7 @@ def get_server_names():
     for line in lines:
       line_striped = line.strip()
       SERVER_NAMES.append(line_striped)
+  SERVER_NAMES.pop(0)
 
 def get_server_ids():
   with open('./StuffForKeeping/server_ids.txt', 'r') as file:
@@ -52,6 +54,7 @@ def get_server_ids():
     for line in lines:
       line_striped = line.strip()
       SERVER_IDS.append(line_striped)
+  SERVER_IDS.pop(0)
 
 def get_reaction_roles_channel():
   with open('./StuffForKeeping/roles_channel.txt', 'r') as file:
@@ -59,6 +62,7 @@ def get_reaction_roles_channel():
     for line in lines:
       line_striped = line.strip()
       REACTION_ROLES_CHANNEL.append(line_striped)
+  REACTION_ROLES_CHANNEL.pop(0)
 
 def get_countdown_channel():
   with open('./StuffForKeeping/countdown_channel.txt', 'r') as file:
@@ -66,6 +70,7 @@ def get_countdown_channel():
     for line in lines:
       line_striped = line.strip()
       COUNTDOWN_CHANNEL.append(line_striped)
+  COUNTDOWN_CHANNEL.pop(0)
 
 def get_birthday_role():
   with open('./StuffForKeeping/birthday_role.txt', 'r') as file:
@@ -73,6 +78,7 @@ def get_birthday_role():
     for line in lines:
       line_striped = line.strip()
       BIRTHDAY_ROLE.append(line_striped)
+  BIRTHDAY_ROLE.pop(0)
 
 def get_welcome_channel():
   with open('./StuffForKeeping/welcome_channel.txt', 'r') as file:
@@ -80,6 +86,7 @@ def get_welcome_channel():
     for line in lines:
       line_striped = line.strip()
       WELCOME_CHANNEL.append(line_striped)
+  WELCOME_CHANNEL.pop(0)
 
 def get_personal_messages_cat():
   with open('./StuffForKeeping/personal_messages_cat.txt','r') as file:
@@ -87,6 +94,7 @@ def get_personal_messages_cat():
     for line in lines:
       line_striped = line.strip()
       PERSONAL_MESSAGES_CATEGORY.append(line_striped)
+  PERSONAL_MESSAGES_CATEGORY.pop(0)
 
 def get_rules_channel():
   with open('./StuffForKeeping/rules_channel.txt','r') as file:
@@ -94,6 +102,7 @@ def get_rules_channel():
     for line in lines:
       line_striped = line.strip()
       RULES_CHANNEL.append(line_striped)
+  RULES_CHANNEL.pop(0)
 
 def get_card_channel():
   with open('./StuffForKeeping/card_channel.txt','r') as file:
@@ -101,6 +110,7 @@ def get_card_channel():
     for line in lines:
       line_striped = line.strip()
       CARD_CHANNEL.append(line_striped)
+  CARD_CHANNEL.pop(0)
 
 def get_wishes_channel():
   with open('./StuffForKeeping/wishes_channel.txt','r') as file:
@@ -108,6 +118,7 @@ def get_wishes_channel():
     for line in lines:
       line_striped = line.strip()
       WISHES_CHANNEL.append(line_striped)
+  WISHES_CHANNEL.pop(0)
 
 def get_gifts_channel():
   with open('./StuffForKeeping/gifts_channel.txt','r') as file:
@@ -115,6 +126,7 @@ def get_gifts_channel():
     for line in lines:
       line_striped = line.strip()
       GIFTS_CHANNEL.append(line_striped)
+  GIFTS_CHANNEL.pop(0)
 
 def get_memories_channel():
   with open('./StuffForKeeping/memories_channel.txt','r') as file:
@@ -122,6 +134,7 @@ def get_memories_channel():
     for line in lines:
       line_striped = line.strip()
       MEMORIES_CHANNEL.append(line_striped)
+  MEMORIES_CHANNEL.pop(0)
 
 def get_reaction_roles(server_name):
   reaction_roles_local = []
@@ -130,6 +143,13 @@ def get_reaction_roles(server_name):
     for line in lines:
       reaction_roles_local.append(line.strip())
     REACTION_ROLES.append(reaction_roles_local)
+
+def get_memories_channel():
+  with open('./StuffForKeeping/announcement_channel.txt','r') as file:
+    lines = file.readlines()
+    for line in lines:
+      line_striped = line.strip()
+      ANNOUNCEMENT_CHANNEL.append(line_striped)
 
 get_server_names()
 get_server_ids()
@@ -144,7 +164,10 @@ get_wishes_channel()
 get_gifts_channel()
 get_memories_channel()
 for server in SERVER_NAMES:
-  get_reaction_roles(server)
+  try:
+    get_reaction_roles(server)
+  except FileNotFoundError:
+    pass
 print(SERVER_NAMES)
 print(SERVER_IDS)
 print(REACTION_ROLES_CHANNEL)
@@ -200,22 +223,22 @@ async def setup_server(interaction: discord.Interaction, gender: discord.app_com
   birthday_role = ""
   await guild.create_category("Temp")
   categoryTemp = discord.utils.get(guild.categories, name="Temp")
-  WelcomeChannel = await guild.create_text_channel("Welcome!", topic="Welcomeing new users!", category=categoryTemp)
-  await guild.create_text_channel("Announcements", news=True, category=categoryTemp)
-  CountdownChannel = await guild.create_text_channel("Countdown", topic="Countdown till their birthday", news=True, category=categoryTemp)
-  RolesChannel = await guild.create_text_channel("Roles", topic="Get your roles here!", category=categoryTemp)
-  Rules_channel = await guild.create_text_channel("Rules", topic="View the rules for this server here!", category=categoryTemp)
+  welcome_channel = await guild.create_text_channel("Welcome!", topic="Welcomeing new users!", category=categoryTemp)
+  announcement_channel = await guild.create_text_channel("Announcements", news=True, category=categoryTemp)
+  countdown_channel = await guild.create_text_channel("Countdown", topic="Countdown till their birthday", news=True, category=categoryTemp)
+  roles_channel = await guild.create_text_channel("Roles", topic="Get your roles here!", category=categoryTemp)
+  rules_channel = await guild.create_text_channel("Rules", topic="View the rules for this server here!", category=categoryTemp)
   await guild.create_category("Community")
-  categoryGeneral = discord.utils.get(guild.categories, name="Community")
-  await guild.create_text_channel("General", topic="General Chat", category=categoryGeneral)
-  await guild.create_text_channel("Commands", topic="For running commands", category=categoryGeneral)
+  general_category = discord.utils.get(guild.categories, name="Community")
+  await guild.create_text_channel("General", topic="General Chat", category=general_category)
+  await guild.create_text_channel("Commands", topic="For running commands", category=general_category)
   await guild.create_category("Birthday stuff")
-  categoryBirthday = discord.utils.get(guild.categories, name="Birthday stuff")
-  CardChannel = await guild.create_text_channel("Birthday card", topic="Sign the birthday card!", category=categoryBirthday)
-  WishesChannel = await guild.create_text_channel("Birthday wishes", topic="Give a wish for their birthday!", category=categoryBirthday)
-  GiftsChannel = await guild.create_text_channel("Birthday gifts", topic="Give them a gift for them to enojoy on their birthday", category=categoryBirthday)
-  MemoriesChannel = await guild.create_text_channel("Memories", topic="Share some of your memories with them!", category=categoryBirthday)
-  categoryPersonalMessagesawait = await guild.create_category("Personal Messages")
+  birthday_category = discord.utils.get(guild.categories, name="Birthday stuff")
+  card_channel = await guild.create_text_channel("Birthday card", topic="Sign the birthday card!", category=birthday_category)
+  wishes_channel = await guild.create_text_channel("Birthday wishes", topic="Give a wish for their birthday!", category=birthday_category)
+  gifts_channel = await guild.create_text_channel("Birthday gifts", topic="Give them a gift for them to enojoy on their birthday", category=birthday_category)
+  memories_channel = await guild.create_text_channel("Memories", topic="Share some of your memories with them!", category=birthday_category)
+  personal_messages_category = await guild.create_category("Personal Messages")
   hex_color = get_hex_from_name(favcolor)
   color = discord.Colour(int(hex_color, 16))
   if BirthdayPersonGender == "Male":
@@ -227,30 +250,105 @@ async def setup_server(interaction: discord.Interaction, gender: discord.app_com
   else:
     print("This is somehow not working")
   SERVER_NAMES.append(guild.name)
+  with open('./StuffForKeeping/server_names.txt', 'a') as server_names_file:
+    server_names_file.write(f"\n{guild.name}")
+    server_names_file.close()
+  
+  
   SERVER_IDS.append(guild.id)
+  with open('./StuffForKeeping/server_ids.txt', 'a') as server_ids_file:
+    server_ids_file.write(f"\n{guild.id}")
+    server_ids_file.close()
+    
+  
   WELCOME_CHANNEL.append(guild.name)
-  WELCOME_CHANNEL.append(WelcomeChannel.id)
+  WELCOME_CHANNEL.append(welcome_channel.id)
+  with open('./StuffForKeeping/welcome_channel.txt', 'a') as welcome_channel_file:
+    welcome_channel_file.write(f"\n{guild.name}")
+    welcome_channel_file.write(f"\n{welcome_channel.id}")
+    welcome_channel_file.close()
+  
+  
   COUNTDOWN_CHANNEL.append(guild.name)
-  COUNTDOWN_CHANNEL.append(CountdownChannel.id)
+  COUNTDOWN_CHANNEL.append(countdown_channel.id)
+  with open('./StuffForKeeping/countdown_channel.txt', 'a') as countdown_channel_file:
+    countdown_channel_file.write(f"\n{guild.name}")
+    countdown_channel_file.write(f"\n{countdown_channel.id}")
+    countdown_channel_file.close()
+    
+  
   REACTION_ROLES_CHANNEL.append(guild.name)
-  REACTION_ROLES_CHANNEL.append(RolesChannel.id)
+  REACTION_ROLES_CHANNEL.append(roles_channel.id)
+  with open('./StuffForKeeping/roles_channel.txt', 'a') as roles_channel_file:
+    roles_channel_file.write(f"\n{guild.name}")
+    roles_channel_file.write(f"\n{roles_channel.id}")
+    roles_channel_file.close()
+
+
   BIRTHDAY_ROLE.append(guild.name)
   BIRTHDAY_ROLE.append(birthday_role.name)
-  PERSONAL_MESSAGES_CATEGORY.append(guild.name)
-  PERSONAL_MESSAGES_CATEGORY.append(categoryPersonalMessagesawait.name)   
-  RULES_CHANNEL.append(guild.name)
-  RULES_CHANNEL.append(Rules_channel.id)
-  CARD_CHANNEL.append(guild.name)
-  CARD_CHANNEL.append(CardChannel.id)
-  WISHES_CHANNEL.append(guild.name)
-  WISHES_CHANNEL.append(WishesChannel.id)
-  GIFTS_CHANNEL.append(guild.name)
-  GIFTS_CHANNEL.append(GiftsChannel.id)
-  MEMORIES_CHANNEL.append(guild.name)
-  MEMORIES_CHANNEL.append(MemoriesChannel.id)
-  #with open('./')
-     
+  with open('./StuffForKeeping/birthday_role.txt', 'a') as birthday_role_file:
+    birthday_role_file.write(f"\n{guild.name}")
+    birthday_role_file.write(f"\n{birthday_role.name}")
+    birthday_role_file.close()
 
+
+  PERSONAL_MESSAGES_CATEGORY.append(guild.name)
+  PERSONAL_MESSAGES_CATEGORY.append(personal_messages_category.name)
+  with open('./StuffForKeeping/personal_messages_cat.txt', 'a') as personal_messages_cat_file:
+    personal_messages_cat_file.write(f"\n{guild.name}")
+    personal_messages_cat_file.write(f"\n{personal_messages_category.name}")
+    personal_messages_cat_file.close()
+
+     
+  RULES_CHANNEL.append(guild.name)
+  RULES_CHANNEL.append(rules_channel.id)
+  with open('./StuffForKeeping/rules_channel.txt', 'a') as rules_channel_file:
+    rules_channel_file.write(f"\n{guild.name}")
+    rules_channel_file.write(f"\n{rules_channel.id}")
+    rules_channel_file.close()
+    
+  
+  CARD_CHANNEL.append(guild.name)
+  CARD_CHANNEL.append(card_channel.id)
+  with open('./StuffForKeeping/card_channel.txt', 'a') as card_channel_file:
+    card_channel_file.write(f"\n{guild.name}")
+    card_channel_file.write(f"\n{card_channel.id}")
+    card_channel_file.close()
+    
+  
+  WISHES_CHANNEL.append(guild.name)
+  WISHES_CHANNEL.append(wishes_channel.id)
+  with open('./StuffForKeeping/wishes_channel.txt', 'a') as wishes_channel_file:
+    wishes_channel_file.write(f"\n{guild.name}")
+    wishes_channel_file.write(f"\n{wishes_channel.id}")
+    wishes_channel_file.close()
+    
+  
+  GIFTS_CHANNEL.append(guild.name)
+  GIFTS_CHANNEL.append(gifts_channel.id)
+  with open('./StuffForKeeping/gifts_channel.txt', 'a') as gifts_channel_file:
+    gifts_channel_file.write(f"\n{guild.name}")
+    gifts_channel_file.write(f"\n{gifts_channel.id}")
+    gifts_channel_file.close()
+    
+  
+  MEMORIES_CHANNEL.append(guild.name)
+  MEMORIES_CHANNEL.append(memories_channel.id)
+  with open('./StuffForKeeping/memories_channel.txt', 'a') as memories_channel_file:
+    memories_channel_file.write(f"\n{guild.name}")
+    memories_channel_file.write(f"\n{memories_channel.id}")
+    memories_channel_file.close()
+    
+  
+  ANNOUNCEMENT_CHANNEL.append(guild.name)
+  ANNOUNCEMENT_CHANNEL.append(announcement_channel.id)
+  with open('./StuffForKeeping/announcement_channel.txt', 'a') as announcement_channel_file:
+    announcement_channel_file.write(f"\n{guild.name}")
+    announcement_channel_file.write(f"\n{announcement_channel.id}")
+    announcement_channel_file.close()
+
+  
 
 @bot.tree.command(name="remove_channels_and_categ", description="Remove channels and categories. For testing only!")
 async def remove_channels_and_categ(interaction: discord.Interaction):
@@ -296,15 +394,16 @@ async def remove_channels_and_categ(interaction: discord.Interaction):
 @app_commands.describe(countdown_channel = "Where is the birthday countdown for this server?")
 @app_commands.describe(welcome_channel="What channel would you like the people who are first joining to be sent in?")
 @app_commands.describe(birthday_role="What is the role for the birthday person at this server?")
-@app_commands.describe(personal_messages="What category are the personal messages in?")
+@app_commands.describe(personal_messages="What category are the personal messages in?(optional)")
 @app_commands.describe(card_channel="What channel will the card signing happen?")
 @app_commands.describe(wishes_channel="What channel will people send their wishes?")
 @app_commands.describe(memories_channel="What channel will people use to send their memories?")
-@app_commands.describe(rules_channel="What channel is used for the rules?")
-@app_commands.describe(gifts_channel="What channel is used for sending gifts?")
+@app_commands.describe(rules_channel="What channel is used for the rules?(optional)")
+@app_commands.describe(gifts_channel="What channel is used for sending gifts?(optional)")
+@app_commands.describe(announcement_channel="What channel is used for announcements?")
 async def setup_bot(interaction: discord.Interaction, reaction_roles: discord.TextChannel, countdown_channel: discord.TextChannel
   , welcome_channel: discord.TextChannel, birthday_role: discord.Role, card_channel: discord.TextChannel, wishes_channel: discord.TextChannel
-  , memories_channel: discord.TextChannel, personal_messages: discord.CategoryChannel=None, rules_channel: discord.TextChannel=None,
+  , memories_channel: discord.TextChannel, announcement_channel: discord.TextChannel, personal_messages: discord.CategoryChannel=None, rules_channel: discord.TextChannel=None,
   gifts_channel: discord.TextChannel=None):
   
   server = interaction.guild
@@ -313,31 +412,107 @@ async def setup_bot(interaction: discord.Interaction, reaction_roles: discord.Te
   server_id = server.id
 
   SERVER_NAMES.append(server_name)
+  with open('./StuffForKeeping/server_names.txt', 'a') as server_names_file:
+    server_names_file.write(f"\n{server_name}")
+    server_names_file.close()
+  
+  
   SERVER_IDS.append(server_id)
+  with open('./StuffForKeeping/server_ids.txt', 'a') as server_ids_file:
+    server_ids_file.write(f"\n{server_id}")
+    server_ids_file.close()
+    
+  
   REACTION_ROLES_CHANNEL.append(server_name)
   REACTION_ROLES_CHANNEL.append(reaction_roles.id)
+  with open('./StuffForKeeping/roles_channel.txt', 'a') as roles_channel_file:
+    roles_channel_file.write(f"\n{server_name}")
+    roles_channel_file.write(f"\n{reaction_roles.id}")
+    roles_channel_file.close()
+
+
   COUNTDOWN_CHANNEL.append(server_name)
   COUNTDOWN_CHANNEL.append(countdown_channel.id)
+  with open('./StuffForKeeping/countdown_channel.txt', 'a') as countdown_channel_file:
+    countdown_channel_file.write(f"\n{server_name}")
+    countdown_channel_file.write(f"\n{countdown_channel.id}")
+    countdown_channel_file.close()
+    
+    
   WELCOME_CHANNEL.append(server_name)
   WELCOME_CHANNEL.append(welcome_channel.id)
+  with open('./StuffForKeeping/welcome_channel.txt', 'a') as welcome_channel_file:
+    welcome_channel_file.write(f"\n{server_name}")
+    welcome_channel_file.write(f"\n{welcome_channel.id}")
+    welcome_channel_file.close()
+  
+  
   if personal_messages != None:
     PERSONAL_MESSAGES_CATEGORY.append(server_name)
     PERSONAL_MESSAGES_CATEGORY.append(personal_messages.name)
+    with open('./StuffForKeeping/personal_messages_cat.txt', 'a') as personal_messages_cat_file:
+        personal_messages_cat_file.write(f"\n{server_name}")
+        personal_messages_cat_file.write(f"\n{personal_messages.name}")
+        personal_messages_cat_file.close()
+
+
   if rules_channel != None:
     RULES_CHANNEL.append(server_name)
     RULES_CHANNEL.append(rules_channel.id)
+    with open('./StuffForKeeping/rules_channel.txt', 'a') as rules_channel_file:
+        rules_channel_file.write(f"\n{server_name}")
+        rules_channel_file.write(f"\n{rules_channel.id}")
+        rules_channel_file.close()
+    
+  
   BIRTHDAY_ROLE.append(server_name)
   BIRTHDAY_ROLE.append(birthday_role.name)
+  with open('./StuffForKeeping/birthday_role.txt', 'a') as birthday_role_file:
+    birthday_role_file.write(f"\n{server_name}")
+    birthday_role_file.write(f"\n{birthday_role.name}")
+    birthday_role_file.close()
+
+
   CARD_CHANNEL.append(server_name)
   CARD_CHANNEL.append(card_channel.id)
+  with open('./StuffForKeeping/card_channel.txt', 'a') as card_channel_file:
+    card_channel_file.write(f"\n{server_name}")
+    card_channel_file.write(f"\n{card_channel.id}")
+    card_channel_file.close()
+    
+  
   WISHES_CHANNEL.append(server_name)
   WISHES_CHANNEL.append(wishes_channel.id)
+  with open('./StuffForKeeping/wishes_channel.txt', 'a') as wishes_channel_file:
+    wishes_channel_file.write(f"\n{server_name}")
+    wishes_channel_file.write(f"\n{wishes_channel.id}")
+    wishes_channel_file.close()
+    
+  
   if gifts_channel != None:
     GIFTS_CHANNEL.append(server_name)
     GIFTS_CHANNEL.append(gifts_channel.id)
+    with open('./StuffForKeeping/gifts_channel.txt', 'a') as gifts_channel_file:
+        gifts_channel_file.write(f"\n{server_name}")
+        gifts_channel_file.write(f"\n{gifts_channel.id}")
+        gifts_channel_file.close()
+    
+  
   MEMORIES_CHANNEL.append(server_name)
   MEMORIES_CHANNEL.append(memories_channel.id)
-
+  with open('./StuffForKeeping/memories_channel.txt', 'a') as memories_channel_file:
+    memories_channel_file.write(f"\n{server_name}")
+    memories_channel_file.write(f"\n{memories_channel.id}")
+    memories_channel_file.close()
+    
+  ANNOUNCEMENT_CHANNEL.append(server_name)
+  ANNOUNCEMENT_CHANNEL.append(announcement_channel.id)  
+  with open('./StuffForKeeping/announcement_channel.txt', 'a') as announcement_channel_file:
+    announcement_channel_file.write(f"\n{server_name}")
+    announcement_channel_file.write(f"\n{announcement_channel.id}")
+    announcement_channel_file.close()
+  
+  
   await interaction.response.send_message(f"You have now setup the bot", ephemeral=True)
   await bot.tree.sync()
 
