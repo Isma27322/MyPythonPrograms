@@ -1,0 +1,4 @@
+! 2023-10-19 https://www.youtube.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope
+www.youtube.com##.opened
+

@@ -1,0 +1,12 @@
+./StuffForKeeping/server_names.txt
+./StuffForKeeping/server_ids.txt
+./StuffForKeeping/roles_channel.txt
+./StuffForKeeping/countdown_channel.txt
+./StuffForKeeping/birthday_role.txt
+./StuffForKeeping/welcome_channel.txt
+./StuffForKeeping/personal_messages_cat.txt
+./StuffForKeeping/rules_channel.txt
+./StuffForKeeping/card_channel.txt
+./StuffForKeeping/wishes_channel.txt
+./StuffForKeeping/gifts_channel.txt
+./StuffForKeeping/memories_channel.txt

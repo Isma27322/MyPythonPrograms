@@ -1,0 +1,600 @@
+1. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+2. "Challenges are what make life interesting and overcoming them is what makes life meaningful." - Joshua J. Marine
+3. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+4. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+5. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+6. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+7. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+8. "The only way to do great work is to love what you do." - Steve Jobs
+9. "I find that the harder I work, the more luck I seem to have." - Thomas Jefferson
+10. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+11. "The way to get started is to quit talking and begin doing." - Walt Disney
+12. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+13. "Believe you can and you're halfway there." - Theodore Roosevelt
+14. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+15. "Opportunities don't happen. You create them." - Chris Grosser
+16. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+17. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+18. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+19. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+20. "It always seems impossible until it's done." - Nelson Mandela
+21. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+22. "Don't be the same. Be better." - Unknown
+23. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+24. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+25. "Believe you can and you're halfway there." - Theodore Roosevelt
+26. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+27. "Opportunities don't happen. You create them." - Chris Grosser
+28. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+29. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+30. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+31. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+32. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+33. "Believe you can and you're halfway there." - Theodore Roosevelt
+34. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+35. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+36. "Opportunities don't happen. You create them." - Chris Grosser
+37. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+38. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+39. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+40. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+41. "It always seems impossible until it's done." - Nelson Mandela
+42. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+43. "Don't be the same. Be better." - Unknown
+44. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+45. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+46. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+47. "Believe you can and you're halfway there." - Theodore Roosevelt
+48. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+49. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+50. "Opportunities don't happen. You create them." - Chris Grosser
+51. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+52. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+53. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+54. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+55. "It always seems impossible until it's done." - Nelson Mandela
+56. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+57. "Don't be the same. Be better." - Unknown
+58. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+59. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+60. "Believe you can and you're halfway there." - Theodore Roosevelt
+61. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+62. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+63. "Opportunities don't happen. You create them." - Chris Grosser
+64. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+65. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+66. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+67. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+68. "It always seems impossible until it's done." - Nelson Mandela
+69. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+70. "Don't be the same. Be better." - Unknown
+71. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+72. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+73. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+74. "Believe you can and you're halfway there." - Theodore Roosevelt
+75. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+76. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+77. "Opportunities don't happen. You create them." - Chris Grosser
+78. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+79. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+80. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+81. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+82. "It always seems impossible until it's done." - Nelson Mandela
+83. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+84. "Don't be the same. Be better." - Unknown
+85. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+86. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+87. "Believe you can and you're halfway there." - Theodore Roosevelt
+88. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+89. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+90. "Opportunities don't happen. You create them." - Chris Grosser
+91. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+92. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+93. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+94. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+95. "It always seems impossible until it's done." - Nelson Mandela
+96. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+97. "Don't be the same. Be better." - Unknown
+98. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+99. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+100. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+101. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+102. "Hard work beats talent when talent doesn't work hard." - Tim Notke
+103. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+104. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+105. "It always seems impossible until it's done." - Nelson Mandela
+106. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+107. "Don't be the same. Be better." - Unknown
+108. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+109. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+110. "Believe you can and you're halfway there." - Theodore Roosevelt
+111. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+112. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+113. "Opportunities don't happen. You create them." - Chris Grosser
+114. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+115. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+116. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+117. "The way to get started is to quit talking and begin doing." - Walt Disney
+118. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+119. "Believe you can and you're halfway there." - Theodore Roosevelt
+120. "Don't be the same. Be better." - Unknown
+121. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+122. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+123. "The only way to do great work is to love what you do." - Steve Jobs
+124. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+125. "Challenges are what make life interesting and overcoming them is what makes life meaningful." - Joshua J. Marine
+126. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+127. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+128. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+129. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+130. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+131. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+132. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+133. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+134. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+135. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+136. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+137. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+138. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+139. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+140. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+141. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+142. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+143. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+144. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+145. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+146. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+147. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+148. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+149. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+150. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+151. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+152. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+153. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+154. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+155. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+156. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+157. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+158. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+159. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+160. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+161. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+162. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+163. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+164. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+165. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+166. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+167. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+168. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+169. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+170. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+171. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+172. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+173. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+174. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+175. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+176. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+177. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+178. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+179. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+180. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+181. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+182. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+183. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+184. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+185. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+186. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+187. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+188. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+189. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+190. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+191. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+192. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+193. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+194. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+195. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+196. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+197. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+198. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+199. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+200. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+201. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+202. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+203. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+204. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+205. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+206. "Don't be the same. Be better." - Unknown
+207. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+208. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+209. "Believe you can and you're halfway there." - Theodore Roosevelt
+210. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+211. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+212. "Opportunities don't happen. You create them." - Chris Grosser
+213. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+214. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+215. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+216. "The way to get started is to quit talking and begin doing." - Walt Disney
+217. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+218. "Believe you can and you're halfway there." - Theodore Roosevelt
+219. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+220. "Opportunities don't happen. You create them." - Chris Grosser
+221. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+222. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+223. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+224. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+225. "It always seems impossible until it's done." - Nelson Mandela
+226. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+227. "Don't be the same. Be better." - Unknown
+228. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+229. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+230. "Believe you can and you're halfway there." - Theodore Roosevelt
+231. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+232. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+233. "Opportunities don't happen. You create them." - Chris Grosser
+234. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+235. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+236. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+237. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+238. "It always seems impossible until it's done." - Nelson Mandela
+239. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+240. "Don't be the same. Be better." - Unknown
+241. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+242. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+243. "The only way to do great work is to love what you do." - Steve Jobs
+244. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+245. "Challenges are what make life interesting and overcoming them is what makes life meaningful." - Joshua J. Marine
+246. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+247. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+248. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+249. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+250. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+251. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+252. "Don't be the same. Be better." - Unknown
+253. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+254. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+255. "Believe you can and you're halfway there." - Theodore Roosevelt
+256. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+257. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+258. "Opportunities don't happen. You create them." - Chris Grosser
+259. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+260. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+261. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+262. "The way to get started is to quit talking and begin doing." - Walt Disney
+263. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+264. "Believe you can and you're halfway there." - Theodore Roosevelt
+265. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+266. "Opportunities don't happen. You create them." - Chris Grosser
+267. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+268. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+269. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+270. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+271. "It always seems impossible until it's done." - Nelson Mandela
+272. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+273. "Don't be the same. Be better." - Unknown
+274. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+275. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+276. "Believe you can and you're halfway there." - Theodore Roosevelt
+277. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+278. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+279. "Opportunities don't happen. You create them." - Chris Grosser
+280. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+281. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+282. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+283. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+284. "It always seems impossible until it's done." - Nelson Mandela
+285. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+286. "Don't be the same. Be better." - Unknown
+287. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+288. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+289. "The only way to do great work is to love what you do." - Steve Jobs
+290. "Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+291. "Challenges are what make life interesting and overcoming them is what makes life meaningful." - Joshua J. Marine
+292. "Do not wait for leaders; do it alone, person to person." - Mother Teresa
+293. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+294. "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle." - Christian D. Larson
+295. "The road to success and the road to failure are almost exactly the same." - Colin R. Davis
+296. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+297. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+298. "Don't be the same. Be better." - Unknown
+299. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+300. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+301. "Believe you can and you're halfway there." - Theodore Roosevelt
+302. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+303. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+304. "Opportunities don't happen. You create them." - Chris Grosser
+305. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+306. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+307. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+308. "The way to get started is to quit talking and begin doing." - Walt Disney
+309. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+310. "Believe you can and you're halfway there." - Theodore Roosevelt
+311. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+312. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+313. "Opportunities don't happen. You create them." - Chris Grosser
+314. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+315. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+316. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+317. "The way to get started is to quit talking and begin doing." - Walt Disney
+318. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+319. "Believe you can and you're halfway there." - Theodore Roosevelt
+320. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+321. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+322. "Opportunities don't happen. You create them." - Chris Grosser
+323. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+324. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+325. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+326. "The way to get started is to quit talking and begin doing." - Walt Disney
+327. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+328. "Believe you can and you're halfway there." - Theodore Roosevelt
+329. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+330. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+331. "Opportunities don't happen. You create them." - Chris Grosser
+332. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+333. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+334. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+335. "The way to get started is to quit talking and begin doing." - Walt Disney
+336. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+337. "Believe you can and you're halfway there." - Theodore Roosevelt
+338. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+339. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+340. "Opportunities don't happen. You create them." - Chris Grosser
+341. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+342. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+343. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+344. "The way to get started is to quit talking and begin doing." - Walt Disney
+345. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+346. "Believe you can and you're halfway there." - Theodore Roosevelt
+347. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+348. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+349. "Opportunities don't happen. You create them." - Chris Grosser
+350. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+351. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+352. "Don't be the same. Be better." - Unknown
+353. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+354. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+355. "Believe you can and you're halfway there." - Theodore Roosevelt
+356. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+357. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+358. "Opportunities don't happen. You create them." - Chris Grosser
+359. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+360. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+361. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+362. "The way to get started is to quit talking and begin doing." - Walt Disney
+363. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+364. "Believe you can and you're halfway there." - Theodore Roosevelt
+365. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+366. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+367. "Opportunities don't happen. You create them." - Chris Grosser
+368. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+369. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+370. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+371. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+372. "It always seems impossible until it's done." - Nelson Mandela
+373. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+374. "Don't be the same. Be better." - Unknown
+375. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+376. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+377. "Believe you can and you're halfway there." - Theodore Roosevelt
+378. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+379. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+380. "Opportunities don't happen. You create them." - Chris Grosser
+381. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+382. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+383. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+384. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+385. "It always seems impossible until it's done." - Nelson Mandela
+386. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+387. "Don't be the same. Be better." - Unknown
+388. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+389. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+390. "Believe you can and you're halfway there." - Theodore Roosevelt
+391. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+392. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+393. "Opportunities don't happen. You create them." - Chris Grosser
+394. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+395. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+396. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+397. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+398. "It always seems impossible until it's done." - Nelson Mandela
+399. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+400. "Don't be the same. Be better." - Unknown
+401. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+402. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+403. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+404. "The way to get started is to quit talking and begin doing." - Walt Disney
+405. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+406. "Believe you can and you're halfway there." - Theodore Roosevelt
+407. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+408. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+409. "Opportunities don't happen. You create them." - Chris Grosser
+410. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+411. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+412. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+413. "The way to get started is to quit talking and begin doing." - Walt Disney
+414. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+415. "Believe you can and you're halfway there." - Theodore Roosevelt
+416. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+417. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+418. "Opportunities don't happen. You create them." - Chris Grosser
+419. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+420. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+421. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+422. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+423. "It always seems impossible until it's done." - Nelson Mandela
+424. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+425. "Don't be the same. Be better." - Unknown
+426. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+427. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+428. "Believe you can and you're halfway there." - Theodore Roosevelt
+429. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+430. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+431. "Opportunities don't happen. You create them." - Chris Grosser
+432. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+433. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+434. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+435. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+436. "It always seems impossible until it's done." - Nelson Mandela
+437. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+438. "Don't be the same. Be better." - Unknown
+439. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+440. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+441. "Believe you can and you're halfway there." - Theodore Roosevelt
+442. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+443. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+444. "Opportunities don't happen. You create them." - Chris Grosser
+445. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+446. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+447. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+448. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+449. "It always seems impossible until it's done." - Nelson Mandela
+450. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+451. "Don't be the same. Be better." - Unknown
+452. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+453. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+454. "Believe you can and you're halfway there." - Theodore Roosevelt
+455. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+456. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+457. "Opportunities don't happen. You create them." - Chris Grosser
+458. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+459. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+460. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+461. "The way to get started is to quit talking and begin doing." - Walt Disney
+462. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+463. "Believe you can and you're halfway there." - Theodore Roosevelt
+464. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+465. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+466. "Opportunities don't happen. You create them." - Chris Grosser
+467. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+468. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+469. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+470. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+471. "It always seems impossible until it's done." - Nelson Mandela
+472. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+473. "Don't be the same. Be better." - Unknown
+474. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+475. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+476. "Believe you can and you're halfway there." - Theodore Roosevelt
+477. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+478. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+479. "Opportunities don't happen. You create them." - Chris Grosser
+480. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+481. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+482. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+483. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+484. "It always seems impossible until it's done." - Nelson Mandela
+485. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+486. "Don't be the same. Be better." - Unknown
+487. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+488. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+489. "Believe you can and you're halfway there." - Theodore Roosevelt
+490. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+491. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+492. "Opportunities don't happen. You create them." - Chris Grosser
+493. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+494. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+495. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+496. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+497. "It always seems impossible until it's done." - Nelson Mandela
+498. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+499. "Don't be the same. Be better." - Unknown
+500. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+501. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+502. "Believe you can and you're halfway there." - Theodore Roosevelt
+503. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+504. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+505. "Opportunities don't happen. You create them." - Chris Grosser
+506. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+507. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+508. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+509. "The way to get started is to quit talking and begin doing." - Walt Disney
+510. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+511. "Believe you can and you're halfway there." - Theodore Roosevelt
+512. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+513. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+514. "Opportunities don't happen. You create them." - Chris Grosser
+515. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+516. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+517. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+518. "The way to get started is to quit talking and begin doing." - Walt Disney
+519. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+520. "Believe you can and you're halfway there." - Theodore Roosevelt
+521. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+522. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+523. "Opportunities don't happen. You create them." - Chris Grosser
+524. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+525. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+526. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+527. "The way to get started is to quit talking and begin doing." - Walt Disney
+528. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+529. "Believe you can and you're halfway there." - Theodore Roosevelt
+530. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+531. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+532. "Opportunities don't happen. You create them." - Chris Grosser
+533. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+534. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+535. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+536. "The way to get started is to quit talking and begin doing." - Walt Disney
+537. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+538. "Believe you can and you're halfway there." - Theodore Roosevelt
+539. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+540. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+541. "Opportunities don't happen. You create them." - Chris Grosser
+542. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+543. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+544. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+545. "The way to get started is to quit talking and begin doing." - Walt Disney
+546. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+547. "Believe you can and you're halfway there." - Theodore Roosevelt
+548. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+549. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+550. "Opportunities don't happen. You create them." - Chris Grosser
+551. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+552. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+553. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+554. "The way to get started is to quit talking and begin doing." - Walt Disney
+555. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+556. "Believe you can and you're halfway there." - Theodore Roosevelt
+557. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+558. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+559. "Opportunities don't happen. You create them." - Chris Grosser
+560. "Your time is limited, don't waste it living someone else's life." - Steve Jobs
+561. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+562. "The only limit to our realization of tomorrow will be our doubts of today." - Franklin D. Roosevelt
+563. "The way to get started is to quit talking and begin doing." - Walt Disney
+564. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+565. "Believe you can and you're halfway there." - Theodore Roosevelt
+566. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+567. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+568. "Opportunities don't happen. You create them." - Chris Grosser
+569. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+570. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+571. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+572. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+573. "It always seems impossible until it's done." - Nelson Mandela
+574. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+575. "Don't be the same. Be better." - Unknown
+576. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+577. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+578. "Believe you can and you're halfway there." - Theodore Roosevelt
+579. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+580. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+581. "Opportunities don't happen. You create them." - Chris Grosser
+582. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+583. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+584. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+585. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+586. "It always seems impossible until it's done." - Nelson Mandela
+587. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
+588. "Don't be the same. Be better." - Unknown
+589. "Do not wait to strike till the iron is hot, but make it hot by striking." - William Butler Yeats
+590. "Don't be afraid to give up the good to go for the great." - John D. Rockefeller
+591. "Believe you can and you're halfway there." - Theodore Roosevelt
+592. "Don't watch the clock; do what it does. Keep going." - Sam Levenson
+593. "The only person you are destined to become is the person you decide to be." - Ralph Waldo Emerson
+594. "Opportunities don't happen. You create them." - Chris Grosser
+595. "Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." - Roy T. Bennett
+596. "Success is stumbling from failure to failure with no loss of enthusiasm." - Winston S. Churchill
+597. "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+598. "The future belongs to those who believe in the beauty of their dreams." - Eleanor Roosevelt
+599. "It always seems impossible until it's done." - Nelson Mandela
+600. "Success usually comes to those who are too busy to be looking for it." - Henry David Thoreau
