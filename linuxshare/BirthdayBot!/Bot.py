@@ -41,114 +41,128 @@ MEMORIES_CHANNEL = []
 ANNOUNCEMENT_CHANNEL = []
 
 def get_server_names():
-  with open('./StuffForKeeping/server_names.txt', 'r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/server_names.txt', 'r') as server_names_file:
+    lines = server_names_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       SERVER_NAMES.append(line_striped)
-  SERVER_NAMES.pop(0)
 
 def get_server_ids():
-  with open('./StuffForKeeping/server_ids.txt', 'r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/server_ids.txt', 'r') as server_ids_file:
+    lines = server_ids_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       SERVER_IDS.append(line_striped)
-  SERVER_IDS.pop(0)
 
 def get_reaction_roles_channel():
-  with open('./StuffForKeeping/roles_channel.txt', 'r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/roles_channel.txt', 'r') as roles_channel_file:
+    lines = roles_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       REACTION_ROLES_CHANNEL.append(line_striped)
-  REACTION_ROLES_CHANNEL.pop(0)
 
 def get_countdown_channel():
-  with open('./StuffForKeeping/countdown_channel.txt', 'r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/countdown_channel.txt', 'r') as countdown_channel_file:
+    lines = countdown_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       COUNTDOWN_CHANNEL.append(line_striped)
-  COUNTDOWN_CHANNEL.pop(0)
 
 def get_birthday_role():
-  with open('./StuffForKeeping/birthday_role.txt', 'r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/birthday_role.txt', 'r') as birthday_role_file:
+    lines = birthday_role_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       BIRTHDAY_ROLE.append(line_striped)
-  BIRTHDAY_ROLE.pop(0)
 
 def get_welcome_channel():
-  with open('./StuffForKeeping/welcome_channel.txt', 'r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/welcome_channel.txt', 'r') as welcome_channel_file:
+    lines = welcome_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       WELCOME_CHANNEL.append(line_striped)
-  WELCOME_CHANNEL.pop(0)
 
 def get_personal_messages_cat():
-  with open('./StuffForKeeping/personal_messages_cat.txt','r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/personal_messages_cat.txt','r') as personal_messages_cat_file:
+    lines = personal_messages_cat_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       PERSONAL_MESSAGES_CATEGORY.append(line_striped)
-  PERSONAL_MESSAGES_CATEGORY.pop(0)
 
 def get_rules_channel():
-  with open('./StuffForKeeping/rules_channel.txt','r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/rules_channel.txt','r') as rules_channel_file:
+    lines = rules_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       RULES_CHANNEL.append(line_striped)
-  RULES_CHANNEL.pop(0)
 
 def get_card_channel():
-  with open('./StuffForKeeping/card_channel.txt','r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/card_channel.txt','r') as card_channel_file:
+    lines = card_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       CARD_CHANNEL.append(line_striped)
-  CARD_CHANNEL.pop(0)
 
 def get_wishes_channel():
-  with open('./StuffForKeeping/wishes_channel.txt','r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/wishes_channel.txt','r') as wishes_channel_file:
+    lines = wishes_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       WISHES_CHANNEL.append(line_striped)
-  WISHES_CHANNEL.pop(0)
 
 def get_gifts_channel():
-  with open('./StuffForKeeping/gifts_channel.txt','r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/gifts_channel.txt','r') as gifts_channel_file:
+    lines = gifts_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       GIFTS_CHANNEL.append(line_striped)
-  GIFTS_CHANNEL.pop(0)
 
 def get_memories_channel():
-  with open('./StuffForKeeping/memories_channel.txt','r') as file:
-    lines = file.readlines()
+  with open('./StuffForKeeping/memories_channel.txt','r') as memories_channel_file:
+    lines = memories_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       MEMORIES_CHANNEL.append(line_striped)
-  MEMORIES_CHANNEL.pop(0)
 
 def get_reaction_roles(server_name):
   reaction_roles_local = []
-  with open(f'./StuffForKeeping/reactionroles/{server_name}_reaction_roles.txt', 'r') as file:
-    lines = file.readlines()
+  with open(f'./StuffForKeeping/reactionroles/{server_name}_reaction_roles.txt', 'r') as reaction_roles_file:
+    lines = reaction_roles_file.readlines()
     for line in lines:
       reaction_roles_local.append(line.strip())
     REACTION_ROLES.append(reaction_roles_local)
 
-def get_memories_channel():
-  with open('./StuffForKeeping/announcement_channel.txt','r') as file:
-    lines = file.readlines()
+def get_announcement_channel():
+  with open('./StuffForKeeping/announcement_channel.txt','r') as announcement_channel_file:
+    lines = announcement_channel_file.readlines()
     for line in lines:
       line_striped = line.strip()
+      if line_striped == '':
+        continue
       ANNOUNCEMENT_CHANNEL.append(line_striped)
 
 get_server_names()
@@ -163,6 +177,7 @@ get_card_channel()
 get_wishes_channel()
 get_gifts_channel()
 get_memories_channel()
+get_announcement_channel()
 for server in SERVER_NAMES:
   try:
     get_reaction_roles(server)
@@ -181,6 +196,7 @@ print(CARD_CHANNEL)
 print(WISHES_CHANNEL)
 print(GIFTS_CHANNEL)
 print(MEMORIES_CHANNEL)
+print(ANNOUNCEMENT_CHANNEL)
 
 
 
@@ -525,7 +541,7 @@ async def setup_roles(interaction: discord.Interaction, roles: int):
   command_channel_id = interaction.channel_id
   main_channel = bot.get_channel(command_channel_id)
   roles_channels = REACTION_ROLES_CHANNEL[REACTION_ROLES_CHANNEL.index(server_name) + 1]
-  roles_channel = bot.get_channel(roles_channels)
+  roles_channel = await bot.fetch_channel(roles_channels)
   reaction_roles = []
   emojis = []
   role_names = []
@@ -575,8 +591,8 @@ async def setup_roles(interaction: discord.Interaction, roles: int):
     REACTION_ROLES.append(reaction_roles)
   
   with open(f'./StuffForKeeping/reactionroles/{server_name}_reaction_roles.txt', 'a') as file:
-    for roles in reaction_roles:
-      file.write(f"{roles}\n")
+    for role in reaction_roles:
+      file.write(f"{role}\n")
   
   embed = discord.Embed(title="Get your roles here!")
   for i in range(roles):
@@ -591,13 +607,15 @@ async def on_raw_reaction_add(payload):
   server_name = server.name  # Get the server name directly
   reaction = payload.emoji  # Get the emoji object
   user = payload.member  # Get the member object who reacted
-  channel = bot.get_channel(payload.channel_id)  # Get the channel object
+  channel = await bot.fetch_channel(payload.channel_id)  # Get the channel object
 
   # Find the reaction roles channel for this server
   reaction_roles_channel = None
   for channel_id in REACTION_ROLES_CHANNEL:
-    if channel_id == channel.id: # Check if channel ID matches server ID
-      reaction_roles_channel = bot.get_channel(channel_id)
+    if channel_id in SERVER_NAMES:
+      continue
+    if int(channel_id) == channel.id: # Check if channel ID matches server ID
+      reaction_roles_channel = await bot.fetch_channel(channel_id)
       break  # Exit loop after finding a match
 
   if not reaction_roles_channel:
@@ -647,12 +665,14 @@ async def on_raw_reaction_remove(payload):
   server_name = server.name  # Get the server name directly
   reaction = payload.emoji  # Get the emoji object
   user = payload.member  # Get the member object who reacted
-  channel = bot.get_channel(payload.channel_id)  # Get the channel object
+  channel = await bot.fetch_channel(payload.channel_id)  # Get the channel object
 
   reaction_roles_channel = None
   for channel_id in REACTION_ROLES_CHANNEL:
-    if channel_id == channel.id: # Check if channel ID matches server ID
-      reaction_roles_channel = bot.get_channel(channel_id)
+    if channel_id in SERVER_NAMES:
+      continue
+    if int(channel_id) == channel.id: # Check if channel ID matches server ID
+      reaction_roles_channel = await bot.fetch_channel(channel_id)
       break  # Exit loop after finding a match
 
 
