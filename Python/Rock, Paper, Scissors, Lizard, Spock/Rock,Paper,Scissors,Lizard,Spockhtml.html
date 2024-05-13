@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock, Paper, Scissors, Lizard, Spock</title>
+</head>
+<body>
+
+<h1>Rock, Paper, Scissors, Lizard, Spock</h1>
+<button onclick="playGame('rock')">Rock</button>
+<button onclick="playGame('paper')">Paper</button>
+<button onclick="playGame('scissors')">Scissors</button>
+<button onclick="playGame('lizard')">Lizard</button>
+<button onclick="playGame('spock')">Spock</button>
+
+<script>
+function playGame(userChoice) {
+    var choices = ['rock', 'paper', 'scissors', 'lizard', 'spock'];
+    var computerChoice = choices[Math.floor(Math.random() * choices.length)];
+
+    alert('You chose ' + userChoice + '\nComputer chose ' + computerChoice);
+
+    if (userChoice === computerChoice) {
+        alert('It\'s a tie!');
+    } else if (
+        (userChoice === 'rock' && (computerChoice === 'scissors' || computerChoice === 'lizard')) ||
+        (userChoice === 'paper' && (computerChoice === 'rock' || computerChoice === 'spock')) ||
+        (userChoice === 'scissors' && (computerChoice === 'paper' || computerChoice === 'lizard')) ||
+        (userChoice === 'lizard' && (computerChoice === 'spock' || computerChoice === 'paper')) ||
+        (userChoice === 'spock' && (computerChoice === 'scissors' || computerChoice === 'rock'))
+    ) {
+        alert('You win!');
+    } else {
+        alert('Computer wins!');
+    }
+}
+</script>
+
+</body>
+</html>
